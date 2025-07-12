@@ -1,97 +1,129 @@
+<!-- ─────────────────────────────────────────────── -->
+<!--  NIRANJAN P. KULKARNI – WORLD-CLASS README 2025 -->
+<!-- ─────────────────────────────────────────────── -->
+
+<!-- 🎨 Hero Wave -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=&fontSize=0">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" alt="">
+</picture>
+
+<!-- 👤 Profile Card -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+  <a href="https://sarkaris.github.io/niranjan-portfolio/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cardivo.vercel.app/api?name=Niranjan+P.+Kulkarni&description=Passionate+Full-Stack+Developer+and+Computer+Science+student+specializing+in+building+scalable%2C+high-performance+web+applications.+Let%27s+build+the+future%2C+one+line+of+code+at+a+time.&image=https%3A%2F%2Fraw.githubusercontent.com%2FSarkaris%2FSarkaris%2Fmain%2Fprofile.png&backgroundColor=%230d1117&colorPattern=%2330363d&linkedin=developer-niranjan&github=Sarkaris&website=sarkaris.github.io%2Fniranjan-portfolio%2F">
+      <img src="https://cardivo.vercel.app/api?name=Niranjan+P.+Kulkarni&description=Passionate+Full-Stack+Developer+and+Computer+Science+student+specializing+in+building+scalable%2C+high-performance+web+applications.+Let%27s+build+the+future%2C+one+line+of+code+at+a+time.&image=https%3A%2F%2Fraw.githubusercontent.com%2FSarkaris%2FSarkaris%2Fmain%2Fprofile.png&backgroundColor=%23ffffff&colorPattern=%2300363d&linkedin=developer-niranjan&github=Sarkaris&website=sarkaris.github.io%2Fniranjan-portfolio%2F" width="100%" alt="Niranjan P. Kulkarni's Profile Card">
+    </picture>
+  </a>
 </div>
+
+<!-- 🔗 Social Badges -->
 <div align="center">
-<a href="https://sarkaris.github.io/niranjan-portfolio/">
-<img width="100%" src="https://cardivo.vercel.app/api?name=Niranjan%20P.%20Kulkarni&description=Passionate%20Full-Stack%20Developer%20and%20Computer%20Science%20student%20specializing%20in%20building%20scalable,%%20high-performance%20web%20applications.%20Let's%20build%20the%20future,%20one%20line%20of%20code%20at%20a%20time.&image=https://raw.githubusercontent.com/Sarkaris/Sarkaris/main/profile.png&backgroundColor=%230d1117&colorPattern=%2330363d&linkedin=developer-niranjan&github=Sarkaris&website=sarkaris.github.io/niranjan-portfolio/" alt="Niranjan P. Kulkarni's Profile Card" />
-</a>
+  <a href="https://www.linkedin.com/in/developer-niranjan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/developer-niranjan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://sarkaris.github.io/niranjan-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-343A40?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
 </div>
-<div align="center">
-<a href="https://www.linkedin.com/in/developer-niranjan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="niranjan-kulkarni" /></a>
-<a href="https://leetcode.com/u/developer-niranjan/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="NiranjanKulkarni" /></a>
-<a href="https://sarkaris.github.io/niranjan-portfolio/" target="blank"><img src="https://img.shields.io/badge/Portfolio-343A40?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-</div>
+
+<!-- 📈 Stats -->
 <h2 align="center">📈 My Coding Stats & Activity</h2>
 <p align="center">A showcase of my dedication and problem-solving skills on GitHub and LeetCode.</p>
+
 <div align="center">
-<table>
-<tr>
-<td align="center">
-<a href="https://leetcode.com/u/developer-niranjan/">
-<img src="https://leetcard.jacoblin.cool/developer-niranjan?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats">
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/Sarkaris">
-<img src="https://github-readme-stats.vercel.app/api?username=Sarkaris&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Niranjan's GitHub Stats">
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/Sarkaris">
-<img src="https://streak-stats.demolab.com/?user=Sarkaris&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak">
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/Sarkaris">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkaris&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages">
-</a>
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/u/developer-niranjan/">
+          <img src="https://leetcard.jacoblin.cool/developer-niranjan?theme=dark&font=Fira%20Code&ext=heatmap" width="390" alt="LeetCode Stats">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Sarkaris">
+          <img src="https://github-readme-stats.vercel.app/api?username=Sarkaris&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="390" alt="GitHub Stats">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Sarkaris">
+          <img src="https://streak-stats.demolab.com/?user=Sarkaris&theme=tokyonight&hide_border=true&border_radius=15" width="390" alt="GitHub Streak">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Sarkaris">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkaris&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="390" alt="Top Languages">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<!-- 🛠 Tech Stack -->
 <h2 align="center">🚀 My Tech Stack & Tools</h2>
 <p align="center">The technologies and tools I use to bring ideas to life.</p>
-<h3 align="center">Programming Languages</h3>
+
+### 🧑‍💻 Programming Languages
 <div align="center">
-<table width="80%">
-<tr>
-<td align="center" width="20%"><a href="#/"><img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" /><br><b>Java</b></a></td>
-<td align="center" width="20%"><a href="#/"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" /><br><b>JavaScript (ES6+)</b></a></td>
-<td align="center" width="20%"><a href="#/"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" /><br><b>Python</b></a></td>
-<td align="center" width="20%"><a href="#/"><img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" /><br><b>C</b></a></td>
-</tr>
-</table>
+  <table width="60%">
+    <tr>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"><br>Java</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"><br>JavaScript</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"><br>Python</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"><br>C</a></td>
+    </tr>
+  </table>
 </div>
-<h3 align="center">Web Development</h3>
+
+### 🌐 Frontend
 <div align="center">
-<p><b>Frontend</b></p>
-<table width="80%">
-<tr>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" /><br><sub>HTML5</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" /><br><sub>CSS3</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React.js" /><br><sub>React.js</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /><br><sub>Next.js</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" /><br><sub>Tailwind CSS</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" /><br><sub>Bootstrap</sub></a></td>
-</tr>
-</table>
-<p><b>Backend & Databases</b></p>
-<table width="80%">
-<tr>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" /><br><sub>Node.js</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" /><br><sub>Express.js</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /><br><sub>MySQL</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /><br><sub>MongoDB</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" /><br><sub>Supabase</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://user-images.githubusercontent.com/25181517/186884151-5d69cb3b-7817-4835-8595-5f36294747c3.png" width="45" height="45" alt="REST API" /><br><sub>REST APIs</sub></a></td>
-</tr>
-</table>
+  <table width="90%">
+    <tr>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5"><br>HTML5</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3"><br>CSS3</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React"><br>React</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js"><br>Next.js</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind"><br>Tailwind CSS</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"><br>Bootstrap</a></td>
+    </tr>
+  </table>
 </div>
-<h3 align="center">Tools & Core Concepts</h3>
+
+### 🖥 Backend & Databases
 <div align="center">
-<table width="80%">
-<tr>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /><br><sub>Git & GitHub</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" /><br><sub>VS Code</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /><br><sub>Postman</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/FFFFFF/external-data-structure-marketing-and-growth-flatart-icons-outline-flatarticons.png" width="45" height="45" alt="Data Structures" /><br><sub>Data Structures</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://img.icons8.com/ios/100/FFFFFF/tree-structure.png" width="45" height="45" alt="Algorithms" /><br><sub>Algorithms</sub></a></td>
-<td align="center" width="16%"><a href="#/"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/system-task.png" width="45" height="45" alt="System Design" /><br><sub>System Design</sub></a></td>
-</tr>
-</table>
+  <table width="90%">
+    <tr>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js"><br>Node.js</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express"><br>Express</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"><br>MySQL</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"><br>MongoDB</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase"><br>Supabase</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=restapi" width="40" alt="REST API"><br>REST APIs</a></td>
+    </tr>
+  </table>
 </div>
+
+### 🧰 Tools & Concepts
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+  <table width="90%">
+    <tr>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"><br>Git & GitHub</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code"><br>VS Code</a></td>
+      <td align="center"><a href="#"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman"><br>Postman</a></td>
+      <td align="center"><a href="#"><img src="https://img.icons8.com/ios/100/FFFFFF/tree-structure.png" width="40" alt="Data Structures"><br>Data Structures</a></td>
+      <td align="center"><a href="#"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/system-task.png" width="40" alt="Algorithms"><br>Algorithms</a></td>
+      <td align="center"><a href="#"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/system-task.png" width="40" alt="System Design"><br>System Design</a></td>
+    </tr>
+  </table>
 </div>
+
+<!-- 🌊 Footer Wave -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=&fontSize=0">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="">
+</picture>
