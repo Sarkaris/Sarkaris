@@ -80,14 +80,12 @@
   </tr>
 </table>
 
-#### Tools & Concepts  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Data Structures](https://img.shields.io/badge/Data%20Structures-9C27B0?style=for-the-badge&logoColor=white)  
-![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge&logoColor=white)  
-![System Design](https://img.shields.io/badge/System%20Design-607D8B?style=for-the-badge&logoColor=white)
+<div align="center">
 
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Data Structures](https://img.shields.io/badge/Data%20Structures-9C27B0?style=for-the-badge&logoColor=white) | ![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge&logoColor=white) | ![System Design](https://img.shields.io/badge/System%20Design-607D8B?style=for-the-badge&logoColor=white) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</div>
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&fontSize=0" width="100%" alt="">
