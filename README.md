@@ -32,6 +32,7 @@
 
 <!-- 3️⃣ Tech Stack – pill style (PDF) -->
 <h2 align="center">🛠 Tech Stack</h2>
+### 🛠 Tech Stack
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -62,7 +63,6 @@
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-9C27B0?style=for-the-badge&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-607D8B?style=for-the-badge&logoColor=white)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&fontSize=0" width="100%" alt="">
 </p>
