@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <div align="center">
 <a href="https://bento.me/niranjankulkarni">
-<img width="100%" src="https://cardivo.vercel.app/api?name=Niranjan%20P.%20Kulkarni&description=Results-driven%20B.Tech%20Computer%20Science%20student%20and%20a%20participant%20in%20the%20Harvard-affiliated%20Aspire%20Leaders%20Program,%20specializing%20in%20building%20scalable%20web%20applications.%20Experienced%20in%20optimizing%20applications%20by%20reducing%20API%20calls,%20slashing%20latency%20by%2040%25,%20and%20achieving%20sub-100ms%20page%20loads.%20A%20proven%20problem-solver%20with%20a%20Top%205%25%20LeetCode%20rank%20and%20a%20passion%20for%20full-cycle%20development.&image=https://drive.google.com/uc?export=view%26id%3D1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&linkedin=niranjan-kulkarni&github=NiranjanKulkarni99&website=YOUR_PORTFOLIO_URL" alt="Niranjan P. Kulkarni's Card" />
+<img width="100%" src="https://cardivo.vercel.app/api?name=Niranjan%20P.%20Kulkarni&description=Results-driven%20B.Tech%20Computer%20Science%20student%20and%20a%20participant%20in%20the%20Harvard-affiliated%20Aspire%20Leaders%20Program,%20specializing%20in%20building%20scalable%20web%20applications.%20Experienced%20in%20optimizing%20applications%20by%20reducing%20API%20calls,%20slashing%20latency%20by%2040%25,%20and%20achieving%20sub-100ms%20page%20loads.%20A%20proven%20problem-solver%20with%20a%20Top%205%25%20LeetCode%20rank%20and%20a%20passion%20for%20full-cycle%20development.&image=https://raw.githubusercontent.com/Sarkaris/Sarkaris/main/profile.png&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&linkedin=niranjan-kulkarni&github=Sarkaris&website=YOUR_PORTFOLIO_URL" alt="Niranjan P. Kulkarni's Card" />
 </a>
 </div>
 <h1 align="center">Hello <a href="YOUR_PORTFOLIO_URL"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a>, I'm Niranjan P. Kulkarni</h1>
@@ -18,11 +18,11 @@ Portfolio	LinkedIn	LeetCode (Top 5%)	GitHub
 ![alt text](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Portfolio&size=square)
 ![alt text](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fniranjan-kulkarni%2F&subtitle=@niranjan-kulkarni&size=square)
 ![alt text](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fleetcode.com%2FNiranjanKulkarni%2F&subtitle=Top+5%25&size=square)
-![alt text](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FNiranjanKulkarni99&subtitle=%2FNiranjanKulkarni99&size=square)
+![alt text](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSarkaris&subtitle=%2FSarkaris&size=square)
 </div>
 <br>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=NiranjanKulkarni99&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+<img src="https://komarev.com/ghpvc/?username=Sarkaris&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 <h2 align="center">🚀 About Me</h2>
 I am a results-driven B.Tech Computer Science student and a proud participant in the Harvard-affiliated Aspire Leaders Program. My specialization lies in building scalable web applications with a keen focus on performance optimization. I have hands-on experience in reducing API calls, slashing latency by up to 40%, and achieving sub-100ms page loads. As a proven problem-solver with a Top 5% LeetCode rank, I am passionate about full-cycle development and delivering impactful solutions.
@@ -49,48 +49,48 @@ Achieved a top-2 finish in a competitive event with over 100 participants.
 <br>
 <h3 align="center">Git Stats</h3>
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=NiranjanKulkarni99&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarkaris&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiranjanKulkarni99&custom_title=Niranjan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarkaris&custom_title=Niranjan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanKulkarni99&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkaris&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiranjanKulkarni99&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarkaris&theme=highcontrast&hide_border=true" alt="Repos Per Language">
 </td>
 </tr>
 </table>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=NiranjanKulkarni99&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Niranjan's GitHub stats">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiranjanKulkarni99&theme=highcontrast&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Sarkaris&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Niranjan's GitHub stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarkaris&theme=highcontrast&hide_border=true">
 Top Repositories
 <div align="center">
 <table>
 <tr>
 <td>
-<a href="https://github.com/NiranjanKulkarni99/CSE-Department-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKulkarni99&repo=CSE-Department-Website&theme=highcontrast&hide_border=true&border_radius=15" />
+<a href="https://github.com/Sarkaris/CSE-Department-Website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarkaris&repo=CSE-Department-Website&theme=highcontrast&hide_border=true&border_radius=15" />
 </a>
 </td>
 <td>
-<a href="https://github.com/NiranjanKulkarni99/Jarvo-Cotton">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKulkarni99&repo=Jarvo-Cotton&theme=highcontrast&hide_border=true&border_radius=15" />
+<a href="https://github.com/Sarkaris/Jarvo-Cotton">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarkaris&repo=Jarvo-Cotton&theme=highcontrast&hide_border=true&border_radius=15" />
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/NiranjanKulkarni99/Blognetic">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKulkarni99&repo=Blognetic&theme=highcontrast&hide_border=true&border_radius=15" />
+<a href="https://github.com/Sarkaris/Blognetic">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarkaris&repo=Blognetic&theme=highcontrast&hide_border=true&border_radius=15" />
 </a>
 </td>
 <td>
-<a href="https://github.com/NiranjanKulkarni99/Veldora-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKulkarni99&repo=Veldora-AI&theme=highcontrast&hide_border=true&border_radius=15" />
+<a href="https://github.com/Sarkaris/Veldora-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarkaris&repo=Veldora-AI&theme=highcontrast&hide_border=true&border_radius=15" />
 </a>
 </td>
 </tr>
@@ -171,22 +171,22 @@ Let's collaborate on something amazing!
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br>Java
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/><br>C
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/><br>C
 </td>
 <td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript (ES6+)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript (ES6+)
 </td>
 <td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/><br>Python
 </td>
 <td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>SQL
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/><br>SQL
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/><br>MongoDB
 </td>
 </tr>
 </tbody>
@@ -198,16 +198,16 @@ Let's collaborate on something amazing!
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/><br>React.js
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/><br>React.js
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/><br>Next.js
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" alt="Next.js"/><br>Next.js
 </td>
 <td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
 </td>
 <td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML5
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML"/><br>HTML5
 </td>
 </tr>
 </tbody>
@@ -219,13 +219,13 @@ Let's collaborate on something amazing!
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/><br>Node.js
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express.js
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50"/><br>Express.js
 </td>
 <td align="center" style="border: none;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hM3G59d61j-pNEvJfb3iZZKZNJgS5Bae1Q&s" width="50" height="50" alt="REST APIs"/><br>REST APIs
+<img src="https://img.icons8.com/color/48/000000/api-settings.png" width="50" height="50" alt="REST APIs"/><br>REST APIs
 </td>
 <td align="center" style="border: none;">
 <img src="https://img.icons8.com/color/48/000000/json-web-token.png" width="50" height="50" alt="JWT"/><br>JWT
@@ -240,13 +240,13 @@ Let's collaborate on something amazing!
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/><br>Git
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Git"/><br>Git
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel"/><br>Vercel
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" height="50" alt="Vercel"/><br>Vercel
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman"/><br>Postman
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/><br>Postman
 </td>
 <td align="center" style="border: none;">
 <img src="https://img.icons8.com/color/48/000000/search-engine-optimization.png" width="50" height="50" alt="SEO"/><br>SEO
