@@ -55,11 +55,13 @@
 
 ### 🛠 Tech Stack
 
+<div align="center">
+
 #### Frontend
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br>Next.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br>Tailwind CSS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br>Tailwind&nbsp;CSS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML</td>
@@ -67,6 +69,7 @@
   </tr>
 </table>
 
+#### Backend & Databases
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js</td>
@@ -77,13 +80,15 @@
   </tr>
 </table>
 
-#### Tools & Concepts
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-9C27B0?style=for-the-badge&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge&logoColor=white)
+#### Tools & Concepts  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Data Structures](https://img.shields.io/badge/Data%20Structures-9C27B0?style=for-the-badge&logoColor=white)  
+![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge&logoColor=white)  
 ![System Design](https://img.shields.io/badge/System%20Design-607D8B?style=for-the-badge&logoColor=white)
+
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&fontSize=0" width="100%" alt="">
 </p>
