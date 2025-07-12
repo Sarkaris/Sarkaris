@@ -1,52 +1,291 @@
-### 👋 Hi there, I'm Niranjan P. Kulkarni!
-
----
-
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
-
-<h3>When I code, I rely on</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<div align="center">
+<a href="https://bento.me/niranjankulkarni">
+<img width="100%" src="https://cardivo.vercel.app/api?name=Niranjan%20P.%20Kulkarni&description=Results-driven%20B.Tech%20Computer%20Science%20student%20and%20a%20participant%20in%20the%20Harvard-affiliated%20Aspire%20Leaders%20Program,%20specializing%20in%20building%20scalable%20web%20applications.%20Experienced%20in%20optimizing%20applications%20by%20reducing%20API%20calls,%20slashing%20latency%20by%2040%25,%20and%20achieving%20sub-100ms%20page%20loads.%20A%20proven%20problem-solver%20with%20a%20Top%205%25%20LeetCode%20rank%20and%20a%20passion%20for%20full-cycle%20development.&image=https://drive.google.com/uc?export=view%26id%3D1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&linkedin=niranjan-kulkarni&github=NiranjanKulkarni99&website=YOUR_PORTFOLIO_URL" alt="Niranjan P. Kulkarni's Card" />
+</a>
+</div>
+<h1 align="center">Hello <a href="YOUR_PORTFOLIO_URL"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a>, I'm Niranjan P. Kulkarni</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=B.Tech+Computer+Science+Student;Full-Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Aspire+Leaders+Program+Participant" alt="Typing SVG" />
 </p>
-
-<h3>My most recent articles</h3>
-<ul>
-  <li><a href="https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414"><i>Getting Started with React: A Beginner’s Guide to Setting Up Your First Application</i></a></li>
-  <li><a href="https://medium.com/@regondaakhil1509/pushing-your-first-react-app-to-github-a-step-by-step-guide-f7b592e67658"><i>Pushing Your First React App to GitHub: A Step-by-Step Guide</i></a></li>
-  <li><a href="https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173"><i>The Ultimate Checklist for Starting a React Project: Best Practices and Tips</i></a></li>
-</ul>
-
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
-
-<a href="https://www.buymeacoffee.com/cycosad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<h3>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+<p align="center">
+Full-Cycle Developer | Problem Solver | Tech Enthusiast
+</p>
+<div align="center">
+<h2>🌐 Connect with Me</h2>
+<p>Discover my work and connect on these platforms!</p>
+Portfolio	LinkedIn	LeetCode (Top 5%)	GitHub
+![alt text](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Portfolio&size=square)
+![alt text](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fniranjan-kulkarni%2F&subtitle=@niranjan-kulkarni&size=square)
+![alt text](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fleetcode.com%2FNiranjanKulkarni%2F&subtitle=Top+5%25&size=square)
+![alt text](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FNiranjanKulkarni99&subtitle=%2FNiranjanKulkarni99&size=square)
+</div>
+<br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=NiranjanKulkarni99&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
+<h2 align="center">🚀 About Me</h2>
+I am a results-driven B.Tech Computer Science student and a proud participant in the Harvard-affiliated Aspire Leaders Program. My specialization lies in building scalable web applications with a keen focus on performance optimization. I have hands-on experience in reducing API calls, slashing latency by up to 40%, and achieving sub-100ms page loads. As a proven problem-solver with a Top 5% LeetCode rank, I am passionate about full-cycle development and delivering impactful solutions.
+<br>
+<h2 align="center">🏆 Key Achievements</h2>
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<b>AIR 16 – IIT Roorkee Coding Contest</b><br/>
+Secured a top national rank among thousands of participants.
+</td>
+<td align="center">
+<b>'Engineering Excellence' Award</b><br/>
+Recognized as the top-performing intern at MFCI Pvt. Ltd. for project impact.
+</td>
+<td align="center">
+<b>2nd Place – CSESA Coding Challenge</b><br/>
+Achieved a top-2 finish in a competitive event with over 100 participants.
+</td>
+</tr>
+</table>
+</div>
+<br>
+<h3 align="center">Git Stats</h3>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=NiranjanKulkarni99&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiranjanKulkarni99&custom_title=Niranjan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanKulkarni99&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiranjanKulkarni99&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+</td>
+</tr>
+</table>
+</div>
+<img src="https://github-readme-stats.vercel.app/api?username=NiranjanKulkarni99&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Niranjan's GitHub stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiranjanKulkarni99&theme=highcontrast&hide_border=true">
+Top Repositories
+<div align="center">
+<table>
+<tr>
+<td>
+<a href="https://github.com/NiranjanKulkarni99/CSE-Department-Website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKulkarni99&repo=CSE-Department-Website&theme=highcontrast&hide_border=true&border_radius=15" />
+</a>
+</td>
+<td>
+<a href="https://github.com/NiranjanKulkarni99/Jarvo-Cotton">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKulkarni99&repo=Jarvo-Cotton&theme=highcontrast&hide_border=true&border_radius=15" />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/NiranjanKulkarni99/Blognetic">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKulkarni99&repo=Blognetic&theme=highcontrast&hide_border=true&border_radius=15" />
+</a>
+</td>
+<td>
+<a href="https://github.com/NiranjanKulkarni99/Veldora-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKulkarni99&repo=Veldora-AI&theme=highcontrast&hide_border=true&border_radius=15" />
+</a>
+</td>
+</tr>
+</table>
+</div>
+<br>
+</div>
+💼 Professional Experience
+Freelance MERN Developer
+Oct 2023 - Present
+Architected and deployed production-ready full-stack applications using Next.js, React, and MySQL.
+Improved Lighthouse scores and optimized SEO with lazy loading techniques.
+Web Dev Intern - MFCI INDIA Pvt. Ltd.
+Sep 2023 - Nov 2023
+Spearheaded a 3-person team to deliver an automated reporting system, eliminating over 10 hours of weekly manual data processing.
+Improved backend performance by 40% by reducing API calls through efficient endpoint design and secure JWT authentication.
+<br>
+🛠️ Projects
+<div align="center">
+<table>
+<tr>
+<td align="center" width="300" height="200">
+<strong>CSE Department Website – Team Lead</strong>
+<br>
+Led a team of 6 to build the official department portal with event, mentor, and student modules.
+<br>
+<b>Tech Stack:</b> Node.js, Express.js, bcrypt, MySQL, EJS, Bootstrap
+</td>
+<td align="center" width="300" height="200">
+<strong>Jarvo Cotton – E-commerce Website</strong>
+<br>
+Secure e-commerce platform with OAuth and dynamic filtering.
+<br>
+<b>Tech Stack:</b> Next.js, MySQL, Tailwind CSS, OAuth
+</td>
+</tr>
+<tr>
+<td align="center" width="300" height="200">
+<strong>Blognetic – Blogging Platform with SSG/SSR</strong>
+<br>
+SSG/SSR blog with rich admin panel; achieved sub-100ms page load times through optimized static generation.
+<br>
+<b>Tech Stack:</b> Next.js (SSG/SSR), Tailwind CSS
+</td>
+<td align="center" width="300" height="200">
+<strong>Veldora AI – Image Generator</strong>
+<br>
+Built a custom UI for an AI image generator that interfaces with an external API; optimized to reduce latency by 40%.
+<br>
+<b>Tech Stack:</b> JavaScript, HTML/CSS, REST API
+</td>
+</tr>
+<tr>
+<td align="center" width="300" height="200">
+<strong>Silicon Minds – Company Website</strong>
+<br>
+Static site with SEO; boosted speed by 35%.
+<br>
+<b>Tech Stack:</b> HTML, CSS, JavaScript, SEO
+</td>
+<td align="center" width="300" height="200">
+<img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
+<br>
+<strong>Next Project?</strong>
+<br>
+Let's collaborate on something amazing!
+</td>
+</tr>
+</table>
+</div>
+<br>
+<h1 align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack
+</h1>
+<h3 align="center">Languages & Databases</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<tbody>
+<tr>
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/><br>Java
+</td>
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/><br>C
+</td>
+<td align="center" style="border: none;">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript (ES6+)
+</td>
+<td align="center" style="border: none;">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+</td>
+<td align="center" style="border: none;">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>SQL
+</td>
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 align="center">Frontend</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<tbody>
+<tr>
+<td align="center" style="border: none;">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/><br>React.js
+</td>
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/><br>Next.js
+</td>
+<td align="center" style="border: none;">
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/><br>Tailwind CSS
+</td>
+<td align="center" style="border: none;">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML5
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 align="center">Backend</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<tbody>
+<tr>
+<td align="center" style="border: none;">
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+</td>
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express.js
+</td>
+<td align="center" style="border: none;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hM3G59d61j-pNEvJfb3iZZKZNJgS5Bae1Q&s" width="50" height="50" alt="REST APIs"/><br>REST APIs
+</td>
+<td align="center" style="border: none;">
+<img src="https://img.icons8.com/color/48/000000/json-web-token.png" width="50" height="50" alt="JWT"/><br>JWT
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 align="center">DevTools</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<tbody>
+<tr>
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/><br>Git
+</td>
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel"/><br>Vercel
+</td>
+<td align="center" style="border: none;">
+<img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman"/><br>Postman
+</td>
+<td align="center" style="border: none;">
+<img src="https://img.icons8.com/color/48/000000/search-engine-optimization.png" width="50" height="50" alt="SEO"/><br>SEO
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 align="center">📫 Let's Connect!</h2>
+<table align="center">
+<thead>
+<tr>
+<th>Email</th>
+<th>Phone</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
+<a href="mailto:kulkarniniranjan99@gmail.com" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
+<br>
+kulkarniniranjan99@gmail.com
+</a>
+</td>
+<td align="center">
+<a href="tel:+919503074699" target="_blank">
+<img src="https://img.icons8.com/color/96/000000/phone.png" alt="Phone" style="width: 80px; margin: 10px;">
+<br>
++91 9503074699
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<h3>
+<div align="center">
+⭐️ From Niranjan Kulkarni | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+</div>
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
