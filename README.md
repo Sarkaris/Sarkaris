@@ -53,11 +53,7 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-#### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+### 🛠 Tech Stack
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,9 +68,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br>Next.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br>Tailwind CSS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50"/><br>jQuery</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS</td>
   </tr>
@@ -91,15 +85,9 @@
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/><br>Django</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/><br>Flask</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>Express</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="50"/><br>Neo4j</td>
   </tr>
 </table>
 
@@ -110,7 +98,6 @@
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-9C27B0?style=for-the-badge&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-607D8B?style=for-the-badge&logoColor=white)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&fontSize=0" width="100%" alt="">
 </p>
