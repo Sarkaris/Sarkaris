@@ -47,9 +47,10 @@
   <img src="https://streak-stats.demolab.com?user=Sarkaris&theme=tokyonight&hide_border=true&border_radius=8" width="47%" alt="GitHub Streak">
 </p>
 
-<p align="center" style="max-width:90%; margin:0 auto;">
-  <img src="https://leetcard.jacoblin.cool/developer-niranjan?theme=dark&font=Fira%20Code&ext=heatmap&width=350" alt="LeetCode" style="width:100%; height:auto;">
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/developer-niranjan?theme=dark&font=Fira%20Code&ext=heatmap&width=350" alt="LeetCode">
 </p>
+
 <h2 align="center">🛠 Tech Stack</h2>
 
 ### 🛠 Tech Stack
