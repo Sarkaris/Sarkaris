@@ -82,6 +82,7 @@
 
 <div align="center">
 
+#### Tools & Concepts
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Data Structures](https://img.shields.io/badge/Data%20Structures-9C27B0?style=for-the-badge&logoColor=white) | ![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge&logoColor=white) | ![System Design](https://img.shields.io/badge/System%20Design-607D8B?style=for-the-badge&logoColor=white) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
