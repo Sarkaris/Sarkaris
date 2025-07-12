@@ -4,8 +4,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Niranjan P. Kulkarni</h1>
 <h3 align="center">A passionate Full-Stack Developer and B.Tech Computer Science student from India, specializing in building scalable web applications.</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/niranjan-kulkarni/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="niranjan-kulkarni" /></a>
-<a href="https://leetcode.com/NiranjanKulkarni/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="NiranjanKulkarni" /></a>
+<a href="https://www.linkedin.com/in/developer-niranjan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="niranjan-kulkarni" /></a>
+<a href="https://leetcode.com/u/developer-niranjan/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="NiranjanKulkarni" /></a>
 </p>
 🔭 I’m currently working as a Freelance MERN Developer, architecting and deploying full-stack applications.
 🌱 I’m currently learning and mastering Advanced System Design, Cloud-Native Technologies (Docker, Kubernetes), and AI/ML integration in web development.
@@ -15,10 +15,10 @@
 ⚡ Fun fact - I thrive on optimizing performance and have a personal quest to make every application I build load in under 100ms. It's a race against time where every millisecond counts!
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/niranjan-kulkarni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhar-ghafoor" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/developer-niranjan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhar-ghafoor" height="30" width="40" /></a>
 <a href="https://github.com/Sarkaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@Sarkaris" height="30" width="40" /></a>
-<a href="https://leetcode.com/NiranjanKulkarni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="NiranjanKulkarni" height="30" width="40" /></a>
-<a href="YOUR_PORTFOLIO_URL" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="Portfolio" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/developer-niranjan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="NiranjanKulkarni" height="30" width="40" /></a>
+<a href="https://sarkaris.github.io/niranjan-portfolio/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="Portfolio" height="40" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
