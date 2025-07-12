@@ -1,38 +1,60 @@
 <!-- ─────────────────────────────────────────────── -->
-<!--  NIRANJAN P. KULKARNI – PDF-STYLE README 2025   -->
+<!--  NIRANJAN P. KULKARNI – WORLD-CLASS README 2025 -->
 <!-- ─────────────────────────────────────────────── -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&fontSize=0" width="100%" alt="">
 </p>
 
-<h1 align="center">Niranjan P. Kulkarni</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" alt="👋"/>
+  Niranjan P. Kulkarni
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="👋"/>
+</h1>
+
 <p align="center">
-  Full-Stack Engineer • Competitive Programmer • Open-Source Contributor
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/developer-niranjan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/developer-niranjan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://github.com/Sarkaris"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://sarkaris.github.io/niranjan-portfolio"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat-square&logo=About.me&logoColor=000" alt="Portfolio"></a>
+  <strong>Full-Stack Engineer • Competitive Programmer • Top 5 % LeetCode • Harvard-affiliated Aspire Leaders Program</strong>
 </p>
 
-<!-- 1️⃣ GitHub Stats (PDF order) -->
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarkaris&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" width="350" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=Sarkaris&theme=tokyonight&hide_border=true&border_radius=8" width="350" alt="GitHub Streak">
+  <a href="https://linkedin.com/in/developer-niranjan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/developer-niranjan">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://github.com/Sarkaris">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://sarkaris.github.io/niranjan-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat-square&logo=About.me&logoColor=000" alt="Portfolio">
+  </a>
 </p>
 
-<!-- 2️⃣ LeetCode (same width) -->
-<h2 align="center">🧩 LeetCode</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/developerNiranjan">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30">
+  </a>
+  <br/>
+  <img alt="visitors" src="https://komarev.com/ghpvc/?username=Sarkaris&label=👀&style=flat-square&color=blue">
+</p>
+
+<!-- ─────────────────────────────────────────────── -->
+<!--  Stats & Tech Stack  -->
+<!-- ─────────────────────────────────────────────── -->
+
+<h2 align="center">📊 Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarkaris&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" width="47%" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=Sarkaris&theme=tokyonight&hide_border=true&border_radius=8" width="47%" alt="GitHub Streak">
+</p>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/developer-niranjan?theme=dark&font=Fira%20Code&ext=heatmap&width=350" alt="LeetCode">
 </p>
 
-<!-- 3️⃣ Tech Stack – pill style (PDF) -->
 <h2 align="center">🛠 Tech Stack</h2>
-### 🛠 Tech Stack
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -63,6 +85,7 @@
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-9C27B0?style=for-the-badge&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-607D8B?style=for-the-badge&logoColor=white)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&fontSize=0" width="100%" alt="">
 </p>
