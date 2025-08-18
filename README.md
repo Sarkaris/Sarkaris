@@ -54,7 +54,15 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 ### 🛠 Tech Stack
-
+<table>
+<tr>
+<td align="center"><img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java</td>
+<td align="center"><img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript</td>
+<td align="center"><img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br>C</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>SQL</td>
+</tr>
+</table>
 <div align="center">
 
 #### Frontend
